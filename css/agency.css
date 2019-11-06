@@ -681,16 +681,3 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: rgb(39, 172, 208);
 }
-
-/* .td {
-  display: flex;
-  flex-wrap: wrap;
-}
-.skillImage {
-  display: flex;
-  flex-wrap: wrap;
-} */
-
-/* .skillsDescription {
-  text-align: center;
-} */
